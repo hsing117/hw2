@@ -2,6 +2,7 @@ HW2 Final Submission
 
 Folder Structure:
 -----------------
+
 HW2_Project/
 ├── src/
 │   ├── HW2.java           # Java file with CRUD operations for Questions and Answers

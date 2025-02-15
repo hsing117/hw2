@@ -1,14 +1,5 @@
 HW2 Final Submission
 
-Folder Structure:
------------------
-
-HW2_Project/
-├── src/
-│   ├── HW2.java           # Java file with CRUD operations for Questions and Answers
-│   ├── HW2Test.java       # JUnit test cases to verify CRUD operations
-│   ├── Main.java          # Java file to manually test CRUD operations in the console
-
 Instructions:
 -------------
 1. Extract the HW2_Project.zip file.
@@ -35,11 +26,4 @@ Expected Output:
 
 - HW2Test.java will show a green bar indicating all test cases passed.
 
-Final Steps:
-------------
-1. Record a screencast:
-   - Show the test results (JUnit running successfully).
-   - Run Main.java to demonstrate CRUD operations.
-   - Briefly explain the output.
-2. Upload the screencast and submit the HW2 report on Canvas.
 

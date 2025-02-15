@@ -14,19 +14,14 @@ Instructions:
 2. Open the project in Eclipse, IntelliJ, or VS Code.
 3. Ensure JUnit 5 is installed:
    - Eclipse: Right-click project > Build Path > Add Libraries > JUnit 5.
-   - IntelliJ: File > Project Structure > Libraries > Add JUnit 5 from Maven.
 
 Running HW2:
 ------------
 1. Run Main.java to manually test CRUD operations:
    - Right-click Main.java > Run As > Java Application (Eclipse)
-   - Click Run Main.java (IntelliJ)
-   - Command Line: javac Main.java && java Main
 
 2. Run HW2Test.java to verify JUnit tests:
    - Right-click HW2Test.java > Run As > JUnit Test (Eclipse)
-   - Click Run HW2Test.java (IntelliJ)
-   - Command Line: javac -cp .;junit-5.8.1.jar HW2Test.java && java -jar junit-platform-console-standalone-1.8.1.jar --class-path . --select-class HW2Test
 
 Expected Output:
 ----------------
